@@ -152,9 +152,7 @@ Currently working as a **Data Analyst Trainee at ARC Institute, Nagpur**, where 
 - Used **BERT and Transformer-based techniques** to generate concise summaries.
 - Explored NLP techniques for processing and understanding textual content.
 
-🔗 [View Project](https://github.com/komaldulani/Comic_Book_Application_Project)
-
----
+🔗[View Project](https://github.com/komaldulani/Comic_Book_Application_Project)
 
 ## 📊 What I Can Do
 
